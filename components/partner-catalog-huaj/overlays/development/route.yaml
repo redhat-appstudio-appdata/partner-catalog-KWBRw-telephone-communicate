@@ -8,7 +8,7 @@ metadata:
     app.kubernetes.io/managed-by: kustomize
     app.kubernetes.io/name: partner-catalog-huaj
     app.kubernetes.io/part-of: partner-catalog
-  name: partner-catalog-huajqcvj
+  name: partner-catalog-huajrzdv
 spec:
   path: /
   port:
